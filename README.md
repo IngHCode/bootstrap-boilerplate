@@ -8,10 +8,10 @@ This is for a website.
 
 This project includes: 
 
--index.html
+- index.html
 
--CSS/styles.css
+- CSS/styles.css
 
--JS/
+- JS/
 
--IMG/
+- IMG/
