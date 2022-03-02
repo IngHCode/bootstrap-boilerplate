@@ -9,6 +9,9 @@ This is for a website.
 This project includes: 
 
 -index.html
+
 -CSS/styles.css
+
 -JS/
+
 -IMG/
