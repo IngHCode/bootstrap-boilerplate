@@ -1,0 +1,41 @@
+nav > ul {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: none;
+}
+a {
+  text-decoration: none;
+}
+
+li{
+  text-align: center;
+  padding: 10px 50px;
+  border: 1px solid black;
+  background-color: lightgray;
+}
+.wrapper a, .main-nav a{
+  display: block;
+  
+} 
+
+
+@media screen and (min-width: 600px) {
+  .wrapper,.main-nav {
+  display: flex;
+}
+.wrapper {
+  flex-direction: column;
+  align-items: center;
+  background-color: green;
+}
+}
+@media (min-width: 1025px) {
+    .wrapper {
+  display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+  
+  }
+
